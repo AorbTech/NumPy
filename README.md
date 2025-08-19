@@ -1,1 +1,1 @@
-![cover](cover/01. Intro)
+![cover](cover.png)
