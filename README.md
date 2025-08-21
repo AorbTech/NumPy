@@ -5,3 +5,8 @@
 1.3 How to Install and use NumPy </br>
 1.4 Prerequisite to Learn NumPy </br>
 1.5 Outline of this Course </br>
+
+## 02. Arrays, Creating 1D and 2D Arrays
+2.1 Arrays
+2.2 Creating 1D Arrays
+2.3 Creating 2D Arrays
