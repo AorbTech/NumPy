@@ -7,6 +7,11 @@
 1.5 Outline of this Course </br>
 
 ## 02. Arrays, Creating 1D and 2D Arrays
-2.1 Arrays
-2.2 Creating 1D Arrays
-2.3 Creating 2D Arrays
+2.1 Arrays </br>
+2.2 Creating 1D Arrays </br>
+2.3 Creating 2D Arrays </br>
+
+## 03. Create a Different Metrices
+3.1 Zero Metrics </br>
+3.2 Ones Metrics </br>
+3.3 Empty Metrics </br>
