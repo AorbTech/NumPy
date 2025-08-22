@@ -10,3 +10,11 @@
 2.1 Arrays
 2.2 Creating 1D Arrays
 2.3 Creating 2D Arrays
+
+## 04. Functions
+4.1 Arange </br>
+4.2 Linspace </br>
+4.3 Reshape </br>
+4.4 Ravel </br>
+4.5 Flatten </br>
+4.6 Transpose
