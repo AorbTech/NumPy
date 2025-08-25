@@ -22,4 +22,21 @@
 4.3 Reshape </br>
 4.4 Ravel </br>
 4.5 Flatten </br>
-4.6 Transpose
+4.6 Transpose </br>
+
+## 05. Mathematical Operations
+5.1 `Placeholder` </br>
+
+## 06. Array Slicing
+6.1 Row slicing </br>
+6.2 Column slicing </br>
+6.3 Diagonal Slicing </br>
+6.4 Item Size </br>
+
+## 07. Concatenation and Split
+7.1 `Placeholder` </br>
+
+## 08. Trigonometry
+8.1 Helpful Functions </br>
+8.2 Trigonometric functions </br>
+8.3 Inverse Functions </br>
