@@ -57,3 +57,18 @@
 9.3 Random.Seed() </br>
 9.4 Random.Choice() </br>
 9.5 Random.Permutation() </br>
+
+## 10. String Operations
+10.1 Add </br>
+10.2 Lower </br>
+10.3 Upper </br>
+10.4 Capitalize </br>
+10.5 Center </br>
+10.6 Jin </br>
+10.7 Replace </br>
+10.8 Split </br>
+10.9 Splitlines </br>
+10.10 Title </br>
+10.11 Equal </br>
+10.12 Not_Equal </br>
+10.13 Find </br>
